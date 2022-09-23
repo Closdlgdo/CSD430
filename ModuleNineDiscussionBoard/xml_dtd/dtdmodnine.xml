@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+
+<!DOCTYPE employee SYSTEM "emp.dtd">
+<employee>
+	<name>Carlos</name>
+	<age>31</age>
+	<empId>1007</empId>
+	<designation>Student</designation>
+</employee>

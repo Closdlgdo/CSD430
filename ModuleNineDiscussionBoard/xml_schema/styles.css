@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+employee {
+	color: magenta;
+	background-color: navy;
+	font-size: 20px;
+}
+
+empId, name {
+	color: green;
+	font-size: 30px;
+}
